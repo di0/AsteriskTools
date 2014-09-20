@@ -1,5 +1,5 @@
 /*#################################################################*
- * Desenvolvido: <di0@jeidd.com>      			           		   *
+ * Desenvolvido: <dio@lognull.com>      			   *
  *                                                                 *
  *  checksize, v 1.0 2011/09/15 12:50AM                            *
  *                                                                 *
