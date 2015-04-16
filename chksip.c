@@ -45,7 +45,7 @@ __write_pid()
 	   exit (EXIT_FAILURE);
 	}
 	sprintf (pidmtx, "%d\n", getpid());
-	char w = write (w_pid,  &pidmtx, sizeof(pidmtx);
+	char w = write (w_pid,  &pidmtx, sizeof(pidmtx));
 					
 	if (!w) {
 		perror ("write");
